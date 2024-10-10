@@ -1,8 +1,24 @@
-# React + Vite
+# React 版本俄罗斯方块
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+### 安装依赖
+``` shell
+npm i
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 运行
+``` shell
+npm run dev
+```
+
+### 构建
+``` shell
+npm run build
+```
+
+### 项目截图
+
+![预览](./image.png)
+
+### 体验地址
+[体验地址](https://ttkit.cn/apps/tetris)

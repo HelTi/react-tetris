@@ -1,0 +1,49 @@
+.nextPiece {
+  display: inline-block;
+  padding: 10px;
+  background-color: #f0f0f0;
+  text-align: center;
+}
+
+.row {
+  display: flex;
+}
+
+.cell {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #ccc;
+}
+
+/* 为不同的方块颜色定义样式 */
+.color0 {
+  background-color: #000;
+}
+
+.color1 {
+  background-color: #00f0f0; /* I piece - Cyan */
+}
+
+.color2 {
+  background-color: #0000f0; /* J piece - Blue */
+}
+
+.color3 {
+  background-color: #f0a000; /* L piece - Orange */
+}
+
+.color4 {
+  background-color: #f0f000; /* O piece - Yellow */
+}
+
+.color5 {
+  background-color: #00f000; /* S piece - Green */
+}
+
+.color6 {
+  background-color: #a000f0; /* T piece - Purple */
+}
+
+.color7 {
+  background-color: #f00000; /* Z piece - Red */
+}
