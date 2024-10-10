@@ -21,4 +21,4 @@ npm run build
 ![预览](./image.png)
 
 ### 体验地址
-[体验地址](https://ttkit.cn/apps/tetris)
+[俄罗斯方块](https://ttkit.cn/apps/tetris)
